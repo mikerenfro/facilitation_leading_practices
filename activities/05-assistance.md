@@ -24,7 +24,7 @@ understanding and set of terminology (see [^4] and
 Other specific guidelines for clear wording in any communication context are:
 
 <div class="bullet-box">
-    <ul class="bullet-list-square">
+    <ul class="bullet-list-square" markdown="1">
         <li> Avoid overwhelming the researcher with too much new information at once. 
         Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
          [^7], and [^8] for more 
