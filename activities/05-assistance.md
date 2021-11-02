@@ -27,7 +27,8 @@ Other specific guidelines for clear wording in any communication context are:
   <ul class="bullet-list-square">
     <li markdown="1">Avoid overwhelming the researcher with too much new information at once.
     Please see *[Educating and Training Researchers](../06-education)* in the Use of ACI, [^4],
-    [^7], and [^8] for more discussion on concept/cognitive overload.</li>
+    [^7], and [^8] for more discussion on concept/cognitive overload.
+    </li>
   </ul>
 </div>
 
